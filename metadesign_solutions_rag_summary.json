@@ -1,0 +1,359 @@
+{
+  "company_profile": {
+    "name": "MetaDesign Solutions",
+    "website": "https://metadesignsolutions.com",
+    "tagline": "AI, Gen AI, & Software Development Experts",
+    "description": "MetaDesign Solutions is a growing technology services provider specializing in digital product engineering and IT services. They offer a dynamic mix of skills, project management, product delivery and operations, supported by multiple engagement models. Their clients include leading global enterprises as well as not-for-profits, spanning multiple industry sectors, verticals and micro-verticals.",
+    "value_proposition": "Building Digital Products That Drive Business Success — From startups to Fortune 500s, MetaDesign Solutions empowers businesses with tailored software development, staff augmentation, UI/UX design, and digital consulting services—engineered for growth, innovation, and long-term impact.",
+    "founding_philosophy": "Plugging productivity and innovation into your enterprise",
+    "stats": {
+      "enterprise_projects_completed": "100+",
+      "average_cost_reduction": "30%+",
+      "it_projects_delivered": "500+",
+      "ai_powered_custom_solutions": "40+",
+      "code_suggestions_generated": "2M+",
+      "reduction_in_dev_time": "95%",
+      "ai_agents_deployed": "20+"
+    }
+  },
+
+  "locations": {
+    "headquarters": "India",
+    "global_presence": ["India", "USA", "Europe", "Australia"],
+    "note": "Multi-location delivery capability with global customer base"
+  },
+
+  "target_clients": {
+    "segments": ["Enterprises", "Digital Natives", "SMEs", "Non-Profits"],
+    "description": "MetaDesign serves hundreds of leading companies who trust them with their digital transformation, ranging from startups to Fortune 500 companies."
+  },
+
+  "core_service_offerings": [
+    {
+      "name": "Digital Product Development",
+      "description": "Create digital products and processes that improve user experience, reduce costs, and offer agility. Full-cycle product engineering from ideation to deployment."
+    },
+    {
+      "name": "Application Modernization & Migration",
+      "description": "Plug in new technologies to enhance speed and performance. Legacy system modernization, cloud migration, and technology stack upgrades."
+    },
+    {
+      "name": "Enterprise EDI Integration",
+      "description": "Connect systems with Electronic Data Interchange (EDI) for smooth data flow, automating tasks and reducing errors across enterprise ecosystems."
+    },
+    {
+      "name": "Software QA & Automation Testing",
+      "description": "Specialized testing tools that are fast, efficient, and easy to scale. Comprehensive QA services including manual testing, automation testing, performance testing, and VAPT."
+    },
+    {
+      "name": "AI/ML & Generative AI Development",
+      "description": "Custom AI solutions including machine learning, computer vision, NLP, LLM/GPT solutions, AI chatbots, custom AI agents, and Gen AI integration. Purpose-built agents that think, decide, and act across business systems."
+    },
+    {
+      "name": "Low-Code / No-Code Development",
+      "description": "Build high-impact web apps without developer bottleneck. Proprietary no-code solution 'CodeNula' for rapid application development and business process automation."
+    },
+    {
+      "name": "Data & Analytics",
+      "description": "Data Engineering, Analytics, Data Governance, Business Intelligence, and Data Visualization services. Help enterprises harness the full potential of their business data."
+    },
+    {
+      "name": "Staff Augmentation",
+      "description": "Hire dedicated developers across Python, Java, .NET, PHP, React, React Native, Salesforce, and more. Flexible team extension models."
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "User-centric design services including wireframing, prototyping, and full UI/UX development using tools like Figma."
+    },
+    {
+      "name": "DevOps & Cloud Services",
+      "description": "Cloud infrastructure management, CI/CD pipelines, containerization (Kubernetes, Docker), and automation using AWS, Azure, GCP, Jenkins, Terraform, and Ansible."
+    },
+    {
+      "name": "Custom AI Agents",
+      "description": "Design and build intelligent AI agents that integrate into business workflows. Types include AI Chatbots with API access, Conversational & Interface Agents, and Multimodal UI Agents."
+    },
+    {
+      "name": "Innovation Lab",
+      "description": "Emerging technology exploration including IoT, AR/VR, Blockchain, Wearable App Development, Smart TV App Development, and 3D/Unity Development."
+    }
+  ],
+
+  "industries_served": [
+    {
+      "name": "Banking, Financial Services & Insurance (BFSI)",
+      "description": "Solutions combining Cloud, Digital and Legacy systems into seamless solutions across financial market entities, regulators and consumers. Digital banking, fintech, insurance tech, portfolio management, GRC document processes.",
+      "capabilities": ["Digital Banking", "Insurance Platforms", "Fintech Solutions", "Portfolio Analytics", "Regulatory Compliance", "API-integrated Banking Systems"]
+    },
+    {
+      "name": "Allied Healthcare & Medical Devices",
+      "description": "Digital solutions for healthcare including EMR/EHR systems, telemedicine, IoT medical devices, health apps, CRM integration for healthcare providers.",
+      "capabilities": ["EMR/EHR Software", "Healthcare Apps", "Medical Device Integration", "IoT Health Solutions", "Telemedicine Platforms", "Healthcare CRM"]
+    },
+    {
+      "name": "Pharmaceuticals & Life Sciences",
+      "description": "Digital technologies for HCP engagement, medical conference platforms, analytics for market intelligence, clinical data management.",
+      "capabilities": ["HCP Engagement Platforms", "Medical Conference Apps", "Market Intelligence Analytics", "Clinical Data Solutions", "Pharma CRM"]
+    },
+    {
+      "name": "Professional Services & Education",
+      "description": "EdTech platforms, learning management systems, professional training applications, digital education solutions.",
+      "capabilities": ["EdTech Platforms", "LMS Development (Moodle/Custom)", "Digital Learning Platforms", "Professional Training Apps", "CME Platforms"]
+    },
+    {
+      "name": "Technology & Software",
+      "description": "Enterprise software, SaaS platforms, cybersecurity solutions, developer tools, plugin development for major software ecosystems."
+    },
+    {
+      "name": "Real Estate",
+      "description": "Property management platforms, real estate payment solutions, AI-powered property management automation, resident portal solutions."
+    },
+    {
+      "name": "Retail & E-Commerce",
+      "description": "Custom eCommerce development, Shopify solutions, Magento development, retail data management, PLM integrations."
+    }
+  ],
+
+  "technology_stack": {
+    "programming_languages": ["Python", "Java", ".NET/C#", "PHP", "JavaScript/TypeScript", "Kotlin", "Swift", "Rust", "Scala", "Ruby", "Groovy", "C/C++"],
+    "frontend_frameworks": ["React.js", "Angular", "Vue.js", "Next.js", "Ember.js", "Sencha"],
+    "mobile_development": ["React Native", "Flutter", "iOS (Swift)", "Android (Kotlin/Java)", "Xamarin", "Ionic", "Tizen"],
+    "backend_frameworks": ["Node.js", "Django", "FastAPI", "Laravel", "CakePHP", "Ruby on Rails", "Spring Boot", "ASP.NET", "Yii", "Zend"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQL Server", "Redis", "SQLite", "CouchDB", "Firebase", "Oracle", "Supabase"],
+    "cms_platforms": ["WordPress", "Drupal", "Magento", "Sitecore", "Strapi", "October CMS", "GOV CMS", "Liferay"],
+    "crm_erp_systems": ["Salesforce", "Dynamics 365", "SugarCRM", "Zoho", "Odoo", "ERPNext", "Frappe", "Stibo (MDM)"],
+    "cloud_devops": ["AWS", "Microsoft Azure", "Google Cloud Platform", "Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible", "Azure DevOps", "GitHub/GitLab CI"],
+    "ai_ml": ["TensorFlow", "PyTorch", "OpenAI GPT/LLM", "Computer Vision", "NLP", "Machine Learning", "RPA (UiPath)", "MCP Server Development"],
+    "testing_qa": ["Selenium", "Playwright", "Appium", "Katalon", "Cucumber", "SikuliX", "JMeter (Performance Testing)", "Manual QA", "VAPT"],
+    "adobe_ecosystem": ["Adobe InDesign Plugins", "Photoshop Plugins", "Illustrator Plugins", "After Effects Plugins", "Premiere Pro Plugins", "Adobe Animate Plugins", "Acrobat Plugins", "InDesign Server", "Web2Print Solutions"],
+    "microsoft_ecosystem": ["Office 365 Add-ins", "Word Plugins", "Excel Plugins", "PowerPoint Plugins", "Outlook Add-ins", "VSTO", "SharePoint", "Exchange Server", "BizTalk"],
+    "google_ecosystem": ["Google Apps Script", "Chrome Extensions", "Google Docs Plugins", "Google Slides Plugins", "Google Spreadsheet Plugins"],
+    "data_analytics_tools": ["Power BI", "Tableau", "Business Intelligence Solutions"],
+    "emerging_tech": ["IoT Solutions", "AR/VR Development", "Blockchain", "Wearable App Development", "Smart TV Apps", "Unity 3D", "Three.js", "LiveKit", "Progressive Web Apps"],
+    "integration_middleware": ["MuleSoft", "Dell Boomi", "EDI Integration", "n8n Workflow Automation", "Apparel Magic"],
+    "other": ["Electron Desktop Apps", "Figma Plugins", "QuarkXPress Xtensions", "Web SDK Add-ins", "Mautic (Marketing Automation)", "Razuna (DAM)", "Alfresco (ECM)", "Shopify", "Xero API Integration"]
+  },
+
+  "case_studies_summary": {
+    "total_count": 82,
+    "categories": {
+      "adobe_plugin_development": {
+        "count": 8,
+        "examples": [
+          "Salesforce Adobe InDesign Connector Development",
+          "Custom Photoshop Plugin & Admin Panel for Creative Teams",
+          "Transforming Sports Merchandise Design with Adobe Plugins",
+          "Custom Adobe Photoshop and Illustrator Plugin for Apparel Design",
+          "Resume Maker - InDesign Plugin for Leading Salesforce Consultancy",
+          "Adobe Premiere Pro - Real-Time AI-Powered Video Stream Modification"
+        ]
+      },
+      "microsoft_office_addins": {
+        "count": 10,
+        "examples": [
+          "Word Add-in for Citation Management",
+          "Word Add-in for Streamlined Contract Negotiation",
+          "Outlook Add-in for AdSales CRM Integration",
+          "Outlook Add-in for Phishing Email Reporting",
+          "Outlook Add-in for Dynamic Email Signature Management",
+          "Outlook Add-in for Telephony Integration",
+          "Outlook Add-in for Stakeholder Relationship Management",
+          "Enterprise Word/Excel/PowerPoint Add-in for Leading Financial Company",
+          "Excel Automation Add-in Development"
+        ]
+      },
+      "healthcare_medtech": {
+        "count": 12,
+        "examples": [
+          "Transforming Digital Experience for Leading Health Technology Provider",
+          "Healthcare App & CRM Integration for BluePrintHIT",
+          "eClinic for Large Hospital Provider",
+          "AI-Powered Content Summarization for Healthcare Learning",
+          "Revolutionizing Ophthalmic Diagnostics with AI & IoT",
+          "End-to-end Solutions for Multinational Contact Lens Company",
+          "Custom Workflow Automation for Healthcare Purchase Approvals",
+          "Global Digital CME App Development"
+        ]
+      },
+      "education_edtech": {
+        "count": 8,
+        "examples": [
+          "Intelligent Tutor for EduTech Firm in India",
+          "Comprehensive Digital Learning Platform for Edu Firm in Brazil",
+          "Unified E-Learning Platform for FintEdu",
+          "Comprehensive ERP Platform for Nursery Schools",
+          "Park Education Case Study",
+          "Developing Digital Platform for Early Childhood Intervention",
+          "Empowering Global Healthcare Education"
+        ]
+      },
+      "ai_ml_solutions": {
+        "count": 8,
+        "examples": [
+          "AI Video Editor - Transforming Long Videos into Short Clips",
+          "AI-Powered Microservices for Cybersecurity Talent Acquisition",
+          "Revolutionizing AI Deployment: Cloud-Based Gen AI Platform",
+          "Real Estate AI Property Management Automation",
+          "Real-Time AI-Powered Video Stream Modification",
+          "Leveraging RPA and AI for Insurance Claims Processing",
+          "Innovative Job Matching Platform",
+          "Automating Accounts Payable & Invoice Processing"
+        ]
+      },
+      "enterprise_erp_crm": {
+        "count": 10,
+        "examples": [
+          "SharperAx Case Study (Custom Software)",
+          "Building CRM Workflow for Leading IVR Solutions Company",
+          "Integrating Atex's Advertising System with Custom Salesforce CPQ",
+          "Revolutionizing Salesforce Data with GridXpress",
+          "Boomi Development & Integration Services",
+          "Streamlining Operations for PathKit Healthcare with ERP & Ecommerce",
+          "ERP & Mobile App for eyWorks",
+          "Custom License Management Tool"
+        ]
+      },
+      "mobile_app_development": {
+        "count": 8,
+        "examples": [
+          "Safety Tracker App for Urban Safety Firm",
+          "Revolutionizing Wellness with IoT Mobile App",
+          "Cross-Platform Mobile App for Automotive Industry",
+          "Innovative HR Mobile App for eyWorks",
+          "Real-Time Asset Management for Global Consumer Brand",
+          "Building Logistics Operations App for EV Transport Fleet"
+        ]
+      },
+      "real_estate_fintech": {
+        "count": 6,
+        "examples": [
+          "Real Estate Payments - Seamless, Secure, Mobile-First Platform",
+          "Revolutionizing Resident Request Management",
+          "Streamlining Property Management with Cloud-Based Digital Platform",
+          "Responsive Frontend for Financial Firm's Portfolio Analytics",
+          "Digital Solution for German Insurance Company",
+          "Real Estate Tech - Intelligent Insurance Comparison Platform"
+        ]
+      },
+      "devops_cloud": {
+        "count": 3,
+        "examples": [
+          "24x7 DevOps & Cloud Support for Samsung",
+          "Full-Stack Development for Scalable Cybersecurity Platform",
+          "Samsung Vendor for Jagran News App Porting"
+        ]
+      },
+      "other": {
+        "count": 9,
+        "examples": [
+          "IoT Swim Performance Enhancement",
+          "Agile Marketing Resource Management Platform",
+          "Streamlining Tariff Approval with Custom NoCode Solution",
+          "Event Management Platform Development",
+          "Immersive SmartTV App Development",
+          "Advanced 3D Lighting App",
+          "Comprehensive Job Portal for Australian Employment Service",
+          "Comprehensive Backend Integration Solution",
+          "Efficient QA Solutions for Retail Data Management"
+        ]
+      }
+    }
+  },
+
+  "engagement_models": [
+    {
+      "model": "Fixed Price Projects",
+      "description": "Well-defined scope with fixed deliverables and timeline"
+    },
+    {
+      "model": "Staff Augmentation",
+      "description": "Hire dedicated developers to extend your team. Available roles include Python, Java, .NET, PHP, React, React Native, Salesforce developers and more."
+    },
+    {
+      "model": "Dedicated Teams",
+      "description": "Fully managed dedicated development teams for long-term projects"
+    },
+    {
+      "model": "Digital Consulting",
+      "description": "Strategic technology consulting for digital transformation initiatives"
+    }
+  ],
+
+  "key_differentiators": [
+    "End-to-end digital product engineering from ideation to deployment",
+    "Deep expertise in Adobe plugin ecosystem (InDesign, Photoshop, Illustrator, After Effects, Premiere Pro, Acrobat, Animate)",
+    "Extensive Microsoft Office add-in development (Word, Excel, PowerPoint, Outlook)",
+    "Strong AI/ML and Generative AI capabilities with 40+ custom solutions and 20+ AI agents deployed",
+    "Proprietary no-code platform 'CodeNula' for rapid application development",
+    "Industry-specific micro-vertical expertise (niche, deep domain knowledge)",
+    "Wide technology stack covering 100+ technologies",
+    "Global delivery model across USA, Europe, Australia, and India",
+    "Multiple engagement models (fixed price, staff augmentation, dedicated teams)",
+    "Focus on enterprise clients as well as SMEs and non-profits",
+    "MCP Server development capability for AI agent integration",
+    "Google ecosystem plugin development (Apps Script, Chrome Extensions, Workspace plugins)",
+    "Strong QA automation practice with Selenium, Playwright, Appium, Katalon"
+  ],
+
+  "content_themes_for_rag": {
+    "thought_leadership_topics": [
+      "AI/ML in enterprise applications",
+      "Gen AI and LLM integration strategies",
+      "Custom AI agent development",
+      "Adobe plugin development best practices",
+      "Microsoft Office add-in development",
+      "Low-code/no-code platforms in enterprise",
+      "Digital product engineering methodologies",
+      "QA automation and testing strategies",
+      "EdTech and digital learning platforms",
+      "Healthcare IT and medical device software",
+      "Fintech and digital banking solutions",
+      "DevOps and cloud migration",
+      "IoT and wearable app development",
+      "Cross-platform mobile app development (Flutter, React Native)",
+      "Enterprise integration (EDI, MuleSoft, Boomi)",
+      "Data engineering and analytics",
+      "Cybersecurity solutions",
+      "Real estate technology platforms",
+      "Marketing automation (Mautic)",
+      "CRM customization (Salesforce, Dynamics 365, Zoho)"
+    ],
+    "blog_post_count": 491,
+    "case_study_count": 82,
+    "technology_page_count": 162,
+    "total_scraped_pages": 773
+  },
+
+  "notable_clients_and_partnerships": {
+    "enterprise_clients_mentioned": ["Samsung", "Edelweiss Financial Services"],
+    "global_reach": "Fortune 500 companies, leading global enterprises, startups",
+    "project_scale": "Enterprise-grade solutions across multiple countries and industries"
+  },
+
+  "career_and_culture": {
+    "description": "MetaDesign prioritizes customer success and rewarding employees for going the extra mile. They offer competitive benefits and a culture of innovation.",
+    "hiring_areas": ["Software Development", "QA/Testing", "AI/ML", "DevOps", "UI/UX Design", "Project Management"],
+    "career_page": "https://metadesignsolutions.com/career/"
+  },
+
+  "contact": {
+    "website": "https://metadesignsolutions.com",
+    "contact_page": "https://metadesignsolutions.com/contactus/",
+    "consultation": "Free consultation available via website scheduling"
+  },
+
+  "rag_usage_instructions": {
+    "purpose": "This JSON serves as a comprehensive knowledge base for AI agents (RAG) to generate accurate, contextual content about MetaDesign Solutions.",
+    "data_sources": "Scraped from 773 pages of metadesignsolutions.com including homepage, about, services, 162 technology pages, 82 case studies, 491 blog posts, 4 industry verticals, and supporting pages.",
+    "recommended_chunking": "Chunk by top-level keys for retrieval. Each section is self-contained for RAG context windows.",
+    "content_generation_guidelines": [
+      "Use specific technology names and case study references for credibility",
+      "Reference industry expertise when targeting specific verticals",
+      "Highlight AI/ML and Gen AI capabilities as primary differentiators",
+      "Mention Adobe and Microsoft plugin expertise as unique niche strengths",
+      "Use engagement models to tailor proposals to different client sizes",
+      "Reference the 773-page website content base for SEO and content depth"
+    ],
+    "full_data_file": "metadesign_solutions_website_data.json (8.3MB, 773 pages with full content)"
+  }
+}
